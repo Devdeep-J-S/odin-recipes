@@ -1,4 +1,4 @@
 # Odin-recipes
 The odin project : 
-My first official project in HTML :--
+A toy HTML website :--
 https://github.com/Devdeep-J-S/odin-recipes/blob/main/index.html 
